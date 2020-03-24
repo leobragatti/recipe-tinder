@@ -1,0 +1,13 @@
+{
+  "id": "tinder",
+  "name": "Tinder",
+  "version": "1.0",
+  "description": "Tinder",
+  "main": "index.js",
+  "author": "Leonardo Bragatti <leonardo.bragatti@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tinder.com",
+    "hasNotificationSound": true
+  }
+}
